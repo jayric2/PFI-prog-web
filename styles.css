@@ -1,14 +1,14 @@
   .body {
     font-family: 'Readex Pro', sans-serif;
-    background: rgb(187, 187, 187);   
+    background: rgb(187, 187, 187);
+
   }
   .menu a {    
     text-align: center;
     padding: 10px 20px;
     text-decoration: none;
     font-size: 17px; 
-    float: none;
-       
+ 
   }
   .menu a:hover {
     background-color: rgb(255, 230, 0);
@@ -22,7 +22,7 @@
 
   .current{  
     color: black;
-    background-color: rgb(255, 230, 0);
+    background-color: rgba(255, 230, 0, 0.822);
   }
   .hr{
       margin-top: 13px;
@@ -34,11 +34,11 @@
       font-size:large;
       font-weight:300;
   }
-  .jay{
+  .title{
       background-color: rgb(255, 230, 0);
       color: rgb(0, 0, 0);
       padding: 6px 12px;
-      border-radius: 4px;
+      border-radius: 2px;
   }
   p a{
       text-decoration: none;
