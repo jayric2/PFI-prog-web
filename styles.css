@@ -103,3 +103,6 @@ img {
 ::-webkit-scrollbar-track {
   background: grey;
 }
+body{
+  text-align: center;
+}
